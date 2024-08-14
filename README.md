@@ -9,13 +9,10 @@ This is a simple and responsive To-Do List application built using HTML, CSS, an
 - **Add Tasks**: Users can add new tasks to the list.
 - **Delete Tasks**: Users can delete tasks from the list.
 - **Mark as Complete**: Users can mark tasks as complete or incomplete.
-- **Local Storage**: The tasks are saved in the browser's local storage, so they persist between sessions.
 - **Responsive Design**: The application is responsive and works well on both desktop and mobile devices.
 
 ## Demo
-
-![Demo GIF](link-to-your-demo-gif)  
-Check out the [live demo](link-to-your-live-demo).
+Check out the todo-list at (https://todo-list-two-black.vercel.app/).
 
 ## Technologies Used
 

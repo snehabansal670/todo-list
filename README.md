@@ -12,7 +12,8 @@ This is a simple and responsive To-Do List application built using HTML, CSS, an
 - **Responsive Design**: The application is responsive and works well on both desktop and mobile devices.
 
 ## Demo
-Check out the todo-list at (https://todo-list-two-black.vercel.app/).
+Check out the todo-list at (https://todo-list-two-black.vercel.app/) 
+github link: https://snehabansal670.github.io/todo-list/
 
 ## Technologies Used
 
